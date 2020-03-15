@@ -3,7 +3,7 @@
 - Objetivo: Desenvovler habilidades com Python e OpenCV/Machine Learning
 
 ## Semana 1 
- Construa o sistema de cadastro de clintes para Mari<br>
+#### Construa o sistema de cadastro de clintes para Mari
 
 ![asdad](https://raw.githubusercontent.com/juanengml/CRUD-flask/master/papomari.png)
 
@@ -13,14 +13,14 @@ LINK - https://github.com/juanengml/IFPR-Cronograma/blob/master/Sistema_de_Mari_
 
 ## Semana 2 
 
-  Construa um chat bot que ajude os biologos da ufpr a classificar Iris croaticas
+#### Construa um chat bot que ajude os biologos da ufpr a classificar Iris croaticas
 ![image](https://chatterbot.readthedocs.io/en/stable/_images/banner.png)
 
 LINK - em construção
 
 ## Semana 3
 
- A Secretaria de educação de Capanema contratou voçê para modelar um sistema de visão computacional para saber quais os horarios do dia os alunos estão mais interessados na aula<br>
+#### A Secretaria de educação de Capanema contratou voçê para modelar um sistema de visão computacional para saber quais os horarios do dia os alunos estão mais interessados na aula<br>
 
 ![capanema](https://raw.githubusercontent.com/juanengml/IFPR-Cronograma/master/Screenshot_2020-03-15%20secretaria%20de%20educacao%20capanema%20pr%20-%20Pesquisa%20Google.png)
 
@@ -28,7 +28,7 @@ LINK - em construção
 
 ## Semana 4
 
- Construa um App para Secretaria Municipal de Obras E Urbanismo de Capanema para fazer contagem dos veiculos nas vias principais da cidade.
+#### Construa um App para Secretaria Municipal de Obras E Urbanismo de Capanema para fazer contagem dos veiculos nas vias principais da cidade.
 
 ![imagem](https://raw.githubusercontent.com/juanengml/IFPR-Cronograma/master/Screenshot_2020-03-15%20Munic%C3%ADpio%20de%20Capanema%20-%20In%C3%ADcio.png)
 
